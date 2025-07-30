@@ -1,0 +1,1 @@
+A simple number guessing game built with HTML, CSS, and JavaScript. The user has to guess a randomly generated number between 1 and 20. With each wrong guess, the score decreases until the user either guesses correctly or the score reaches zero.
